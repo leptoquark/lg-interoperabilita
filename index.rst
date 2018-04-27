@@ -1,9 +1,9 @@
-Linee Guida su acquisizione e riuso di software per le pubbliche amministrazioni
-================================================================================
+Linee Guida sul modello di interoperabilità
+===========================================
 
 .. admonition:: Consultazione pubblica
 
-   La consultazione pubblica per questo documento è attiva dal 5 aprile al 5 maggio 2018.
+   La consultazione pubblica per questo documento è attiva da XXX a XXX.
 
 
 .. toctree::
